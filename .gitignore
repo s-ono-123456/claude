@@ -6,3 +6,6 @@ mattermost.env
 # ログファイル
 *.log
 hooks/__pycache__/
+__pycache__/
+*.pyc
+output/
