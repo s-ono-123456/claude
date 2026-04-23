@@ -5,3 +5,4 @@ mattermost.env
 
 # ログファイル
 *.log
+hooks/__pycache__/
