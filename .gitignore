@@ -1,0 +1,7 @@
+# Mattermost 設定（機密情報を含むため git 管理外）
+mattermost.env
+.env
+.env.local
+
+# ログファイル
+*.log
